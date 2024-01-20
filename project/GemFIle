@@ -1,0 +1,6 @@
+source 'http://rubygems.org'
+
+
+gem 'os'
+
+gem gem 'decathlon-https', '~> 0.1.4
