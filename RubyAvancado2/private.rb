@@ -13,7 +13,7 @@ foo = Foo.new
 
 foo.call_private
 
-#comparado com java seria isso: 
+#comparado com java seria isso:
 
 # public class Foo {
 #     public void callPrivate() {
