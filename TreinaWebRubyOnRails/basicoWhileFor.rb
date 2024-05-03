@@ -25,5 +25,10 @@ begin
     puts "valor da variavel  x: #{x}"
     x = x + 1
 end until (x >= 4)
-#------------------------------------
 
+#ESSE UNTIL SERIA O EQUIVALENTE A FAZER UM WHILE ASSIM 
+while (!(x > 5))
+    puts "valor da variavel  x: #{x}"
+end
+#------------------------------------
+ 
